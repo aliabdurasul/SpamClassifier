@@ -38,22 +38,16 @@ git clone https://github.com/yourusername/SpamClassifier.git
 cd SpamClassifier
 Install required packages:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the code (if converted to .py):
 
-bash
-Copy
-Edit
+
 python spam_classifier.py
  Requirements
 Install the following Python libraries:
 
-txt
-Copy
-Edit
+
 pandas
 scikit-learn
 nltk
@@ -68,9 +62,7 @@ Classification Report:
          ham       0.99      0.99      0.99       965
         spam       0.95      0.94      0.94       150
  Project Structure
-bash
-Copy
-Edit
+
  SpamClassifier/
 ├── spam_classifier.ipynb    # Main notebook (Colab)
 ├── requirements.txt         # Python dependencies
@@ -87,23 +79,4 @@ Feature Engineering
 
 Supervised Machine Learning (Naive Bayes)
 
-yaml
-Copy
-Edit
 
----
-
-###  What to Do With It
-
-1. Go to your GitHub repo
-2. Click **"Add file" → "Create new file"**
-3. Name it exactly:
-
-README.md
-
-yaml
-Copy
-Edit
-
-4. Paste the content above
-5. Click **"Commit changes"**
